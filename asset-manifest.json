@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lenguajesiv/static/css/main.897b462c.css",
+    "main.js": "/lenguajesiv/static/js/main.909674ab.js",
+    "index.html": "/lenguajesiv/index.html",
+    "main.897b462c.css.map": "/lenguajesiv/static/css/main.897b462c.css.map",
+    "main.909674ab.js.map": "/lenguajesiv/static/js/main.909674ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.897b462c.css",
+    "static/js/main.909674ab.js"
+  ]
+}
